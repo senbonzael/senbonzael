@@ -11,7 +11,7 @@
 
 #### Я Татьяна, начинающий QA-инженер/тестировщик с фокусом на web-приложениях. В этом портфолио представлены мои учебные практические проекты:
 
-<table border=0 style="margin-left: 13%; margin-right: 10%">
+<table border=0 cellspacing="0" cellpadding="0" style="margin-left: 13%; margin-right: 10%">
 <tr><td>
 ✦ Ручное тестирование реального e-commerce сайта <a href="">TeaSpot</a>
 </td>
@@ -33,18 +33,18 @@
 
 <table border="0">
   <tr>
-    <td><img src="assets/python.svg" width="35" title="Python" style="vertical-align: middle; margin-right: 8px;"><sub>Python</sub></td>
-    <td><img src="assets/devicon--pytest.svg" width="35" title="Pytest" style="vertical-align: middle; margin-right: 8px;"><sub>Pytest</sub></td>
-    <td><img src="assets/selenium.svg" width="35" title="Selenium" style="vertical-align: middle; margin-right: 8px;"><sub>Selenium</sub></td>
-    <td><img src="assets/allure.svg" width="35" title="Allure" style="vertical-align: middle; margin-right: 8px;"><sub>Allure</sub></td>
-    <td><img src="assets/git.svg" width="35" title="Git" style="vertical-align: middle; margin-right: 8px;"><sub>Git</sub></td>
+    <td><img src="assets/python.svg" width="35" title="Python" style="vertical-align: middle;"><sub>&nbsp;&nbsp;Python</sub></td>
+    <td><img src="assets/devicon--pytest.svg" width="35" title="Pytest" style="vertical-align: middle;"><sub>&nbsp;&nbsp;Pytest</sub></td>
+    <td><img src="assets/selenium.svg" width="35" title="Selenium" style="vertical-align: middle;"><sub>&nbsp;&nbsp;Selenium</sub></td>
+    <td><img src="assets/allure.svg" width="35" title="Allure" style="vertical-align: middle;"><sub>&nbsp;&nbsp;Allure</sub></td>
+    <td><img src="assets/git.svg" width="35" title="Git" style="vertical-align: middle;"><sub>&nbsp;&nbsp;Git</sub></td>
   </tr>
   <tr>
-    <td><img src="assets/rest.svg" width="35" title="RestAPI" style="vertical-align: middle; margin-right: 8px;"><sub>RestAPI</sub></td>
-    <td><img src="assets/postman.svg" width="35" title="Postman" style="vertical-align: middle; margin-right: 8px;"><sub>Postman</sub></td>
-    <td><img src="assets/db.svg" width="35" title="SQL" style="vertical-align: middle; margin-right: 8px;"> <sub>SQL</sub></td>
-    <td><img src="assets/atlassian-jira.svg" width="35" title="Jira" style="vertical-align: middle; margin-right: 8px;"><sub>Jira</sub></td>
-    <td><img src="assets/chrome-devtools.svg" width="35" title="DevTools" style="vertical-align: middle; margin-right: 8px;"><sub>DevTools</sub></td>
+    <td><img src="assets/rest.svg" width="35" title="RestAPI" style="vertical-align: middle; "><sub>&nbsp;&nbsp;RestAPI</sub></td>
+    <td><img src="assets/postman.svg" width="35" title="Postman" style="vertical-align: middle; "><sub>&nbsp;&nbsp;Postman</sub></td>
+    <td><img src="assets/db.svg" width="35" title="SQL" style="vertical-align: middle;"><sub>&nbsp;&nbsp;SQL</sub></td>
+    <td><img src="assets/atlassian-jira.svg" width="35" title="Jira" style="vertical-align: middle; "><sub>&nbsp;&nbsp;Jira</sub></td>
+    <td><img src="assets/chrome-devtools.svg" width="35" title="DevTools" style="vertical-align: middle; "><sub>&nbsp;&nbsp;DevTools</sub></td>
   </tr>
 </table>
 
