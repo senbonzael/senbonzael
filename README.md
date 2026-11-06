@@ -18,25 +18,23 @@
 
 <p><i>+ В планах на ближайшее время - пополнить портфолио API-фреймворком для автоматизированного тестирования бэкенда</i></p>
 
-<!-- <br/><br/> -->
-
 
 ### ₊✧ ˗ˋˏ **Инструменты и технологии** ˎˊ˗ ✧₊
 
 <div>
-<img align="center" src="assets/python.svg" width="35" title="Python"><img src="assets/empty.svg" width="8"></img><sub>Python</sub><img src="assets/empty.svg" width="21"></img>
-<img align="center" src="assets/devicon--pytest.svg" width="35" title="Pytest"><img src="assets/empty.svg" width="8"></img><sub>Pytest</sub><img src="assets/empty.svg" width="21"></img>
-<img align="center" src="assets/selenium.svg" width="35" title="Selenium"><img src="assets/empty.svg" width="8"></img><sub>Selenium</sub><img src="assets/empty.svg" width="21"></img>
-<img align="center" src="assets/allure.svg" width="35" title="Allure"><img src="assets/empty.svg" width="8"></img><sub>Allure</sub><img src="assets/empty.svg" width="19"></img>
-<img align="center" src="assets/git.svg" width="35" title="Git"><img src="assets/empty.svg" width="8"></img><sub>Git</sub>
+<img align="center" src="assets/python.svg" width="35" title="Python"><img src="assets/empty.svg" width="8"><sub>Python</sub><img src="assets/empty.svg" width="21">
+<img align="center" src="assets/devicon--pytest.svg" width="35" title="Pytest"><img src="assets/empty.svg" width="8"><sub>Pytest</sub><img src="assets/empty.svg" width="21">
+<img align="center" src="assets/selenium.svg" width="35" title="Selenium"><img src="assets/empty.svg" width="8"></img><sub>Selenium</sub><img src="assets/empty.svg" width="21">
+<img align="center" src="assets/allure.svg" width="35" title="Allure"><img src="assets/empty.svg" width="8"><sub>Allure</sub><img src="assets/empty.svg" width="19"></img>
+<img align="center" src="assets/git.svg" width="35" title="Git"><img src="assets/empty.svg" width="8"><sub>Git</sub>
 </div>
 <p></p>
 <div>
-<img align="center" src="assets/rest.svg" width="35" title="RestAPI"><img src="assets/empty.svg" width="8"></img><sub>RestAPI</sub><img src="assets/empty.svg" width="16"></img>
-<img align="center" src="assets/postman.svg" width="35" title="Postman"><img src="assets/empty.svg" width="8"></img><sub>Postman</sub><img src="assets/empty.svg" width="12"></img>
-<img align="center" src="assets/chrome-devtools.svg" width="35" title="DevTools"><img src="assets/empty.svg" width="8"></img><sub>DevTools</sub><img src="assets/empty.svg" width="19"></img>
-<img align="center" src="assets/atlassian-jira.svg" width="35" title="Jira"><img src="assets/empty.svg" width="8"></img><sub>Jira</sub><img src="assets/empty.svg" width="30"></img>
-<img align="center" src="assets/db.svg" width="35" title="SQL" ><img src="assets/empty.svg" width="8"></img><sub>SQL</sub>
+<img align="center" src="assets/rest.svg" width="35" title="RestAPI"><img src="assets/empty.svg" width="8"><sub>RestAPI</sub><img src="assets/empty.svg" width="16">
+<img align="center" src="assets/postman.svg" width="35" title="Postman"><img src="assets/empty.svg" width="8"><sub>Postman</sub><img src="assets/empty.svg" width="12">
+<img align="center" src="assets/chrome-devtools.svg" width="35" title="DevTools"><img src="assets/empty.svg" width="8"><sub>DevTools</sub><img src="assets/empty.svg" width="19">
+<img align="center" src="assets/atlassian-jira.svg" width="35" title="Jira"><img src="assets/empty.svg" width="8"><sub>Jira</sub><img src="assets/empty.svg" width="30">
+<img align="center" src="assets/db.svg" width="35" title="SQL" ><img src="assets/empty.svg" width="8"><sub>SQL</sub>
 </div>
 
 
@@ -73,12 +71,12 @@
     <tr align="center">
         <td>
             <a href="ССЫЛКА_НА_MANUAL_REPO">
-                <img src="https://img.shields.io/badge/Открыть_проект-9274D8?style=for-the-badge&logo=github&logoColor=white" />
+                <img src="https://img.shields.io/badge/Открыть_проект-9274D8?style=for-the-badge&logo=github&logoColor=white">
             </a>
         </td>
         <td>
             <a href="ССЫЛКА_НА_AUTOMATION_REPO">
-                <img src="https://img.shields.io/badge/Открыть_проект-388D91?style=for-the-badge&logo=github&logoColor=white" />
+                <img src="https://img.shields.io/badge/Открыть_проект-388D91?style=for-the-badge&logo=github&logoColor=white">
             </a>
         </td>
     </tr>
