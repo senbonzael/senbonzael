@@ -10,8 +10,10 @@
 ### ₊✧ ˗ˋˏ **Обо мне** ˎˊ˗ ✧₊
 
 #### Я Татьяна, начинающий QA-инженер/тестировщик с фокусом на web-приложениях. В этом портфолио представлены мои учебные практические проекты:
+<details open>
+<summary style="display: none; list-style: none;"></summary>
 
-<table border=0 cellspacing="0" cellpadding="0" style="margin-left: 13%; margin-right: 10%">
+<table>
 <tr><td>
 ✦ Ручное тестирование реального e-commerce сайта <a href="">TeaSpot</a>
 </td>
@@ -27,30 +29,36 @@
 </td>
 </tr>
 </table>
-<br/><br/>
+<!-- <br/><br/> -->
+
 
 ### ₊✧ ˗ˋˏ **Инструменты и технологии** ˎˊ˗ ✧₊
 
-<table border="0">
-  <tr>
-    <td><img src="assets/python.svg" width="35" title="Python" style="vertical-align: middle;"><sub>&nbsp;&nbsp;Python</sub></td>
-    <td><img src="assets/devicon--pytest.svg" width="35" title="Pytest" style="vertical-align: middle;"><sub>&nbsp;&nbsp;Pytest</sub></td>
-    <td><img src="assets/selenium.svg" width="35" title="Selenium" style="vertical-align: middle;"><sub>&nbsp;&nbsp;Selenium</sub></td>
-    <td><img src="assets/allure.svg" width="35" title="Allure" style="vertical-align: middle;"><sub>&nbsp;&nbsp;Allure</sub></td>
-    <td><img src="assets/git.svg" width="35" title="Git" style="vertical-align: middle;"><sub>&nbsp;&nbsp;Git</sub></td>
-  </tr>
-  <tr>
-    <td><img src="assets/rest.svg" width="35" title="RestAPI" style="vertical-align: middle; "><sub>&nbsp;&nbsp;RestAPI</sub></td>
-    <td><img src="assets/postman.svg" width="35" title="Postman" style="vertical-align: middle; "><sub>&nbsp;&nbsp;Postman</sub></td>
-    <td><img src="assets/db.svg" width="35" title="SQL" style="vertical-align: middle;"><sub>&nbsp;&nbsp;SQL</sub></td>
-    <td><img src="assets/atlassian-jira.svg" width="35" title="Jira" style="vertical-align: middle; "><sub>&nbsp;&nbsp;Jira</sub></td>
-    <td><img src="assets/chrome-devtools.svg" width="35" title="DevTools" style="vertical-align: middle; "><sub>&nbsp;&nbsp;DevTools</sub></td>
-  </tr>
-</table>
+<ul>
+  <li style="display: inline;">
+    <img align="center" src="assets/python.svg" width="35" title="Python"><img src="assets/empty.svg" width="8"></img><sub>Python</sub><img src="assets/empty.svg" width="21"></img>
+    <img align="center" src="assets/devicon--pytest.svg" width="35" title="Pytest"><img src="assets/empty.svg" width="8"></img><sub>Pytest</sub><img src="assets/empty.svg" width="21"></img>
+    <img align="center" src="assets/selenium.svg" width="35" title="Selenium"><img src="assets/empty.svg" width="8"></img><sub>Selenium</sub><img src="assets/empty.svg" width="21"></img>
+    <img align="center" src="assets/allure.svg" width="35" title="Allure"><img src="assets/empty.svg" width="8"></img><sub>Allure</sub><img src="assets/empty.svg" width="19"></img>
+    <img align="center" src="assets/git.svg" width="35" title="Git"><img src="assets/empty.svg" width="8"></img><sub>Git</sub>
+  </li>
+</ul>
+<ul>
+  <li style="display: inline;">
+    <img align="center" src="assets/rest.svg" width="35" title="RestAPI"><img src="assets/empty.svg" width="8"></img><sub>RestAPI</sub><img src="assets/empty.svg" width="16"></img>
+    <img align="center" src="assets/postman.svg" width="35" title="Postman"><img src="assets/empty.svg" width="8"></img><sub>Postman</sub><img src="assets/empty.svg" width="12"></img>
+    <img align="center" src="assets/chrome-devtools.svg" width="35" title="DevTools"><img src="assets/empty.svg" width="8"></img><sub>DevTools</sub><img src="assets/empty.svg" width="19"></img>
+    <img align="center" src="assets/atlassian-jira.svg" width="35" title="Jira"><img src="assets/empty.svg" width="8"></img><sub>Jira</sub><img src="assets/empty.svg" width="30"></img>
+    <img align="center" src="assets/db.svg" width="35" title="SQL" ><img src="assets/empty.svg" width="8"></img><sub>SQL</sub>
+  </li>
+</ul>
+<br clear="left" /> 
 
-<br/><br/>
+
+<!-- <br/><br/> -->
 
 ### ₊✧ ˗ˋˏ **Проекты** ˎˊ˗ ✧₊
+
 <table border=0 width="70%">
     <tr align="center">
         <td style="width:50%">
@@ -90,7 +98,8 @@
         </td>
     </tr>
 </table>
-<br/><br/>
+</details>
+<!-- <br/><br/> -->
 
 ### ₊✧ ˗ˋˏ **Связаться со мной** ˎˊ˗ ✧₊
 <a href="">
