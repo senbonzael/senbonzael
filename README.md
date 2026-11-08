@@ -3,10 +3,11 @@
 
 ### I'm Taty, QA Engineer in progress
 
-![Static Badge](https://img.shields.io/badge/Manual_QA-9274D8?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Automation_QA-388D91?style=for-the-badge")
-![Static Badge](https://img.shields.io/badge/Web_Testing-536C9B?style=for-the-badge")
-<p></p>
+
+![Static Badge](https://img.shields.io/badge/MANUAL%20QA-9274D8?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/AUTOMATION%20QA-388D91?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/WEB%20TESTING-536C9B?style=for-the-badge)
+
 
 ### ₊✧ ˗ˋˏ **Обо мне** ˎˊ˗ ✧₊
 
@@ -40,20 +41,18 @@
 
 ### ₊✧ ˗ˋˏ **Проекты** ˎˊ˗ ✧₊
 <br>
-<img src="assets/manual.svg" alt="Manual QA project" align="center"><img src="assets/empty.svg" width=10><b>E-COMMERCE MANUAL TESTING</b>
+<p><img src="assets/manual.svg" alt="Manual QA project" align="center"><img src="assets/empty.svg" width=10><b>E-COMMERCE MANUAL TESTING</b></p>
 <p><i>Чек-листы, тест-кейсы и баг-репорты
-для веб-приложения TeaSpot</i>
-
-<a href="ССЫЛКА_НА_MANUAL_REPO">
+для веб-приложения TeaSpot</i></p>
+<p><a href="ССЫЛКА_НА_MANUAL_REPO">
     <img src="https://img.shields.io/badge/Открыть_проект-9274D8?style=for-the-badge&logo=github&logoColor=white">
-</a>
+</a></p>
 
 <br>
-<img src="assets/auto.svg" alt="Manual QA project" align="center"><img src="assets/empty.svg" width=10><b>PYTHON · PAGE OBJECT MODEL</b>
+<p><img src="assets/auto.svg" alt="Manual QA project" align="center"><img src="assets/empty.svg" width=10><b>PYTHON · PAGE OBJECT MODEL</b></p>
 <p><i>Фреймворк для тестирования UI элементов платформы QA Playground</i></p>
-
-<a href="ССЫЛКА_НА_AUTOMATION_REPO">
-    <img src="https://img.shields.io/badge/Открыть_проект-388D91?style=for-the-badge&logo=github&logoColor=white">
+<p><a href="ССЫЛКА_НА_AUTOMATION_REPO">
+    <img src="https://img.shields.io/badge/Открыть_проект-388D91?style=for-the-badge&logo=github&logoColor=white"></p>
 </a>
 <br/><br/>
 
