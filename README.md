@@ -21,7 +21,7 @@
 <br/><br/></p>
 
 ### ₊✧ ˗ˋˏ **Инструменты и технологии** ˎˊ˗ ✧₊
-
+<br>
 <div>
 <img align="center" src="assets/python.svg" width="35" title="Python"><img src="assets/empty.svg" width="8"><sub>Python</sub><img src="assets/empty.svg" width="21">
 <img align="center" src="assets/devicon--pytest.svg" width="35" title="Pytest"><img src="assets/empty.svg" width="8"><sub>Pytest</sub><img src="assets/empty.svg" width="21">
@@ -42,19 +42,19 @@
 ### ₊✧ ˗ˋˏ **Проекты** ˎˊ˗ ✧₊
 <br>
 <p><img align="top" src="assets/manual.svg" alt="Manual QA project"><img align="top" src="assets/empty.svg" width=12><b>E-COMMERCE MANUAL TESTING</b></p>
-<p><i>Чек-листы, тест-кейсы и баг-репорты
-для веб-приложения TeaSpot</i></p>
+<p><i>Чек-листы, тест-кейсы и баг-репорты для веб-приложения TeaSpot</i></p>
 <p><a href="ССЫЛКА_НА_MANUAL_REPO">
-    <img src="https://img.shields.io/badge/Открыть_проект-9274D8?style=for-the-badge&logo=github&logoColor=white">
+    <img align="top" src="https://img.shields.io/badge/Открыть_проект-9274D8?style=for-the-badge&logo=github&logoColor=white">
 </a></p>
 
-<br>
+<hr width="60%" align="center">
+
 <p><img align="top" src="assets/auto.svg" alt="Manual QA project" ><img align="top" src="assets/empty.svg" width=12><b>PYTHON · PAGE OBJECT MODEL</b></p>
 <p><i>Фреймворк для тестирования UI элементов платформы QA Playground</i></p>
 <p><a href="ССЫЛКА_НА_AUTOMATION_REPO">
-    <img src="https://img.shields.io/badge/Открыть_проект-388D91?style=for-the-badge&logo=github&logoColor=white"></p>
+    <img align="top" src="https://img.shields.io/badge/Открыть_проект-388D91?style=for-the-badge&logo=github&logoColor=white"></p>
 </a>
-<br/><br/>
+<br>
 
 ### ₊✧ ˗ˋˏ **Связаться со мной** ˎˊ˗ ✧₊
 <a href="">
