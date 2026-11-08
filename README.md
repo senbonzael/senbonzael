@@ -41,7 +41,7 @@
 
 ### ₊✧ ˗ˋˏ **Проекты** ˎˊ˗ ✧₊
 <br>
-<p><img src="assets/manual.svg" alt="Manual QA project"><img src="assets/empty.svg" width=12><b>E-COMMERCE MANUAL TESTING</b></p>
+<p><img align="center" src="assets/manual.svg" alt="Manual QA project"><img align="center" src="assets/empty.svg" width=12><b>E-COMMERCE MANUAL TESTING</b></p>
 <p><i>Чек-листы, тест-кейсы и баг-репорты
 для веб-приложения TeaSpot</i></p>
 <p><a href="ССЫЛКА_НА_MANUAL_REPO">
@@ -49,7 +49,7 @@
 </a></p>
 
 <br>
-<p><img src="assets/auto.svg" alt="Manual QA project" ><img src="assets/empty.svg" width=12><b>PYTHON · PAGE OBJECT MODEL</b></p>
+<p><img align="center" src="assets/auto.svg" alt="Manual QA project" ><img align="center" src="assets/empty.svg" width=12><b>PYTHON · PAGE OBJECT MODEL</b></p>
 <p><i>Фреймворк для тестирования UI элементов платформы QA Playground</i></p>
 <p><a href="ССЫЛКА_НА_AUTOMATION_REPO">
     <img src="https://img.shields.io/badge/Открыть_проект-388D91?style=for-the-badge&logo=github&logoColor=white"></p>
