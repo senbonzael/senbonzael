@@ -66,12 +66,8 @@
 <br>
 
 ### ₊✧ ˗ˋˏ **Связаться со мной** ˎˊ˗ ✧₊
-<a href="">
-    <img src="assets/mail.svg" width=40px>
-</a>
-<a href="">
-    <img src="assets/tg.svg" width=40px>
-</a>
+<a href=""><img src="assets/mail.svg" width=40px></a>
+<a href=""><img src="assets/tg.svg" width=40px></a>
 
 ---
 <sub>Спасибо, что заглянули!</sub>
