@@ -16,6 +16,7 @@
 
 <p>✦ Ручное тестирование реального e-commerce сайта <a href="">TeaSpot</a></p>
 <p>✦ Проект по автоматизации тестирования UI на Python, покрывающий автотестами различные типы веб-элементов на учебной платформе <a href="">QA Playground</a></p>
+<p>✦ Postman-коллекция, созданная для тестирования учебного проекта-песочницы <a href="https://api.qasandbox.org/">Mythos API</a></p>
 
 <p><i>+ В планах на ближайшее время - пополнить портфолио API-фреймворком для автоматизированного тестирования бэкенда</i>
 <br/><br/></p>
@@ -53,6 +54,14 @@
 <p><i>Фреймворк для тестирования UI элементов платформы QA Playground</i></p>
 <p><a href="https://github.com/senbonzael/automation_qa">
     <img align="top" src="https://img.shields.io/badge/Открыть_проект-388D91?style=for-the-badge&logo=github&logoColor=white"></p>
+</a>
+
+<hr width="60%" align="center">
+
+<p><img align="top" src="assets/postman_collection.svg" alt="Postman Collection" ><img align="top" src="assets/empty.svg" width=12><b>REST API · POSTMAN</b></p>
+<p><i>Коллекция запросов для тестирования API проекта-песочницы Mythos API</i></p>
+<p><a href="https://www.postman.com/senbonzael-5782923/workspace/olympus-testing/collection/47396592-fefab562-fa06-47de-982f-22714d6947e9?action=share&source=copy-link&creator=47396592">
+    <img align="top" src="https://img.shields.io/badge/Открыть_проект-536C9B?style=for-the-badge&logo=github&logoColor=white"></p>
 </a>
 <br>
 
