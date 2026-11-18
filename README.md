@@ -66,8 +66,8 @@
 <br>
 
 ### ₊✧ ˗ˋˏ **Связаться со мной** ˎˊ˗ ✧₊
-<a href=""><img src="assets/mail.svg" width=40px></a>
-<a href=""><img src="assets/tg.svg" width=40px></a>
+<a href="mailto:senbonzael@icloud.com"><img src="assets/mail.svg" width=40></a>
+<a href="https://t.me/senbonzael" target="_blank"><img src="assets/tg.svg" width=40></a>
 
 ---
 <sub>Спасибо, что заглянули!</sub>
